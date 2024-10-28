@@ -1,6 +1,7 @@
 # Customer Churn Classification with ANN and Streamlit 🎉
 
-🏆 Data Features:
+# 🏆 Data Features:
+
 RowNumber, CustomerId, Surname: Essential for keeping track but not impacting churn prediction.
 CreditScore: Higher scores often mean lower risk.
 Geography: Encoded as France, Germany, Spain.
